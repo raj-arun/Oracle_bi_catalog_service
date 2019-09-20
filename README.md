@@ -10,4 +10,4 @@ Fetch all the report names along wih the path in a given folder in Oracle BI Clo
   - Save and Execute the PowerShell
 
 #### Sample Output
-![Sample Output](Web Services Output.jpg)
+![Sample Output](https://github.com/raj-arun/Oracle_bi_catalog_service/blob/master/Web%20Services%20Output.jpg)
