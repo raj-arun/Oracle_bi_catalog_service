@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v2="http://xmlns.oracle.com/oxp/service/v2">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <v2:getFolderContents>
+         <v2:folderAbsolutePath>/Custom/Demo BI/Common</v2:folderAbsolutePath>
+         <v2:userID>bi_user_name</v2:userID>
+         <v2:password>bi_user_name_password</v2:password>
+      </v2:getFolderContents>
+   </soapenv:Body>
+</soapenv:Envelope>
